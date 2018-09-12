@@ -1,6 +1,7 @@
 # Technical tests
+Applying for a job as a webdeveloper usually includes a test to assess the applicant. 
 
-When companies try to asses new students, the companies normally give them some kind of test. We have here gathered some of those tests. It can be super good practice to try and go through these tests and see what is expected.
+The tests in this page are real world tests found from interviewing companies about finding the right candidate for a job as a webdeveloper. 
 
 Tests:
 * **Seatgeek:** https://github.com/awbergs/seatgeek-frontend
