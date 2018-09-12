@@ -9,3 +9,5 @@ Tests:
   * [Frontend](subit/subit%20-%20candidate%20test%20frontend.pdf)
 
   * [Backend](subit/subit%20-%20candidate%20test%20backend.pdf)
+
+* **Nodes:** [Frontend test](nodes/frontend-test.md)
