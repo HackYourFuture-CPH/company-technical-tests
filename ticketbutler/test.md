@@ -18,7 +18,7 @@ It should:
 4. Recieve new data from the OpenWeatherMap API every 3 seconds and update state appropriately
 
 ```
-let apiKey = "5a41d1b27a5b53105892161b092b2ae1";
+let apiKey = "";
 let apiUrl =
 "//api.openweathermap.org/data/2.5/weather?q=Copenhagen,dk&units=metric&appid=" +
 apiKey;
